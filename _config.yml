@@ -28,7 +28,7 @@ twitter_username: neo_t3
 github_username:  jemontagnier
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 #remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
